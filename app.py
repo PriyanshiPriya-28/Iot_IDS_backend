@@ -3,7 +3,6 @@ from flask_cors import CORS
 from joblib import load
 import os
 import numpy as np
-import shap
 import gdown
 
 app = Flask(__name__)
