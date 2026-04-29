@@ -8,9 +8,6 @@ pandas
 scikit-learn
 scipy
 
-matplotlib
-seaborn
-shap
 imbalanced-learn
 
 joblib
